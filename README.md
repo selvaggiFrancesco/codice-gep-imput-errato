@@ -1,4 +1,5 @@
-"#include <iostream>
+{
+#include <iostream>
 #include <cstdlib>
 #include <ctime>
 #include <cmath>
@@ -124,4 +125,5 @@ void stampa(schedaCliente archivio[])
 		cout<<archivio[i].cav<<"\n";
 		
 	}
-}"
+}
+}
